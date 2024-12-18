@@ -1,4 +1,4 @@
-# Microservice Architecture and System Design with Python & Kubernetes
+# Video To MP3 Microservice Architecture and System Design with Python & Kubernetes
 
 This repository contains the code for a microservice-based application that converts video files to MP3s. This project was built following the "Microservice Architecture and System Design with Python & Kubernetes – Full Course" from freeCodeCamp.
 
