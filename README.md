@@ -13,6 +13,8 @@ The application is designed using a microservices architecture, where different 
 5.  **Notification:** The user is notified via email when the MP3 is ready.
 6.  **Download:** The user can download the MP3 using a unique ID and JWT.
 
+![Alt text](img/img.png?raw=true "Video-2-Mp3")
+
 ## Technologies Used
 
 *   **Python:** The primary programming language for all services.
